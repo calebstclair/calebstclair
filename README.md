@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grandtempus, a junior at Harding University
+- 👋 Hi, I’m Caleb St Clair, a junior at Harding University
 - 👀 I’m interested in Cybersecurity and developing software
 - 🌱 I’m currently learning networking, databases and furthering my web development skills
 - 📫 How to reach me - cstclair@harding.edu
